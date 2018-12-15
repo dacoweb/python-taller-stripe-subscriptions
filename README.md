@@ -49,13 +49,13 @@ Set Stripe test key & Customer ID (subscription.py):
     ...
 ```
 
-On runing env, execute:
+On running env, execute:
 
 ```
 $ python subscription.py
 ```
 
-Expected result: a new subscription created under the customer indicated.
+Expected result: a new subscription created under the customer id provided.
 
 ```
 ...
